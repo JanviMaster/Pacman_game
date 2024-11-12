@@ -24,7 +24,7 @@
     <p>To play the game, you need to have Python and Pygame installed.</p>
     <ol>
         <li>Clone this repository:
-            <pre><code>git clone https://github.com/your-username/pacman-arcade-game.git<br>cd pacman-arcade-game</code></pre>
+            <pre><code>git clone https://github.com/JanviMaster/pacman-arcade-game.git<br>cd pacman-arcade-game</code></pre>
         </li>
         <li>Install the required packages:
             <pre><code>pip install pygame</code></pre>
